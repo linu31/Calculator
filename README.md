@@ -6,7 +6,7 @@ This is a simple, clean, and fully responsive calculator built using HTML, CSS, 
 
 ## 🔗 Live Demo  
 👉 [View Live Calculator on Vercel](https://your-netlify-url.netlify.app)  
-live demo on Vercel app
+click on the above for live demo on Vercel app
 
 
 
